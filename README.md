@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Sergio Rojas
+# 👋 ¡Hola! Soy Pablo
 
 **Data & Automation Developer | SQL, Python, Streamlit, FastAPI | Sistemas y Ciberseguridad**
 
